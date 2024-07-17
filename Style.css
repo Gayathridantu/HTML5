@@ -1,0 +1,21 @@
+nav,a{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: right;
+}
+ 
+section{
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    padding: 30px;
+    background-color: blue;
+    color: wheat;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
